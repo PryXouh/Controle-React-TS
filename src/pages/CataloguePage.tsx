@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useWorkshops } from "../hooks/useWorkshops";
+import { useWorkshops } from "../assets/hooks/useWorkshops";
 import { ErrorMessage } from "../components/ErrorMessage";
 import { WorkshopCard } from "../components/WorkshopCard";
 import type { Category } from "../types";

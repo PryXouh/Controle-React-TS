@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { useWorkshops } from "../hooks/useWorkshops";
+import { useWorkshops } from "../assets/hooks/useWorkshops";
 import { ErrorMessage } from "../components/ErrorMessage";
 
 export function WorkshopDetailPage() {
